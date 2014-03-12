@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+
+.topcoat-notification {
+  background-color: #288edf;
+}
+
+.search-form {
+  width: 90%;
+  margin: 1rem auto;
+}
+.search-form input[type="search"] {
+  width: 90%; 
+}
+
+.hide {
+  visibility: hidden;
+}
+
